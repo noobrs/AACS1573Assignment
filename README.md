@@ -1,2 +1,3 @@
-# AACS1573Assignment
-Introduction to data science
+# AACS1573 Introduction to Data Science Assignment
+Supermarket Grocery Sales Analysis
+
